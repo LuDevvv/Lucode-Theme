@@ -1,4 +1,4 @@
-# lucode README
+# Lucode 🌙
 
 ## Working with Markdown
 

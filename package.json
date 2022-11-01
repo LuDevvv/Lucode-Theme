@@ -1,0 +1,21 @@
+{
+  "name": "lucode",
+  "displayName": "lucode",
+  "description": "The best theme of the world xd",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lucode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lucode-color-theme.json"
+      }
+    ]
+  }
+}
